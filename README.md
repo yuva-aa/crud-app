@@ -1,3 +1,10 @@
+A CRUD (Create, Read, Update, Delete) user form developed in React typically consists of components and functionality to perform these basic operations on user data.
+
+https://yuvaa-crud.netlify.app/
+
+<img width="1470" alt="Screenshot 2024-01-05 at 8 44 04 PM" src="https://github.com/yuva-aa/crud-app/assets/152509708/88c28b9e-34e8-459f-adad-5d1f42a07699">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
